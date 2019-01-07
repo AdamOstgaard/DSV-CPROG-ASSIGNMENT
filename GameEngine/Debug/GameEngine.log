@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\adam\source\repos\gameengine\gameengine\gameengine.h(21): warning C4091: 'typedef ': ignored on left of 'GameEngine::GameSettings' when no variable is declared
+  GameEngine.cpp
+c:\users\adam\source\repos\gameengine\gameengine\gameengine.h(21): warning C4091: 'typedef ': ignored on left of 'GameEngine::GameSettings' when no variable is declared
+  Generating Code...
+  GameEngine.vcxproj -> c:\users\adam\Source\Repos\GameEngine\Debug\GameEngine.exe
+  GameEngine.vcxproj -> c:\users\adam\Source\Repos\GameEngine\Debug\GameEngine.pdb (Partial PDB)
