@@ -1,7 +1,5 @@
-﻿  Main.cpp
-c:\users\adam\source\repos\gameengine\gameengine\gameengine.h(21): warning C4091: 'typedef ': ignored on left of 'GameEngine::GameSettings' when no variable is declared
-  GameEngine.cpp
-c:\users\adam\source\repos\gameengine\gameengine\gameengine.h(21): warning C4091: 'typedef ': ignored on left of 'GameEngine::GameSettings' when no variable is declared
-  Generating Code...
-  GameEngine.vcxproj -> c:\users\adam\Source\Repos\GameEngine\Debug\GameEngine.exe
-  GameEngine.vcxproj -> c:\users\adam\Source\Repos\GameEngine\Debug\GameEngine.pdb (Partial PDB)
+﻿  NonPlayerSprite.cpp
+c:\users\adam\code\dsv-cprog-assignment\gameengine\gameengine.h(48): warning C4091: 'typedef ': ignored on left of 'GameEngine::GameSettings' when no variable is declared
+c:\users\adam\code\dsv-cprog-assignment\gameengine\nonplayersprite.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GameEngine.vcxproj -> C:\Users\Adam\Code\DSV-CPROG-ASSIGNMENT\Debug\GameEngine.exe
+  GameEngine.vcxproj -> C:\Users\Adam\Code\DSV-CPROG-ASSIGNMENT\Debug\GameEngine.pdb (Partial PDB)
